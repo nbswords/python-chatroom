@@ -17,19 +17,19 @@ python client.py
 
 
 ## Screenshots
-Login GUI, Input any Username you want
+### Login GUI, Input any Username you want
 <img src="./images/login.jpg">
 
 
-Chatroom GUI, support emoji
+### Chatroom GUI, support emoji
 <img src="./images/chatroom.jpg">
 
-Multi-client chat
+### Multi-client chat
 <img src="./images/multi.jpg">
 
 
 
-Private chat
+### Private chat
 <img src="./images/private.jpg">
 
 
