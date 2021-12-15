@@ -17,7 +17,7 @@ python client.py
 
 
 ## Screenshots
-### Login GUI, Input any Username you want
+### Login GUI, Input any username you want
 <img src="./images/login.jpg">
 
 
